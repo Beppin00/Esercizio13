@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background-color: red;
+}
+
+h1{
+  color: white;
+  padding: 10px;
+}
+
+h3{
+  color: black;
+  padding: 10px;
+}
+
+p{
+  color: black;
+  padding: 10px;
+}
+
+fieldset{
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin-inline: auto;
+}
+
+input{
+  width: fit-content;
+  margin-inline: auto;
+}
